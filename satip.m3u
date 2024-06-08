@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="3sat HD" group-title="Documentary",3sat HD
+rtsp://10.200.20.148/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6500,6510,6520,6530
