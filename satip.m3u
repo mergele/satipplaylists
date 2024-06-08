@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="3sat HD" group-title="Documentary",3sat HD
+#EXTINF:-1 tvg-id="idx" tvg-name="3sat_HD" tvg-logo="" tvg-chno="1" group-title="testgroup1",3sat HD
 rtsp://10.200.20.148/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6500,6510,6520,6530
+#EXTINF:-1 tvg-id="idx" tvg-name="arte_HD" tvg-logo="" tvg-chno="2" group-title="testgroup1",arte HD
+rtsp://10.200.20.148/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5110,5111,5112,5113
+#EXTINF:-1 tvg-id="idx" tvg-name="ZDF_HD" tvg-logo="" tvg-chno="3" group-title="",ZDF HD
+rtsp://10.200.20.148/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6100,6110,6120,6130
+#EXTINF:-1 tvg-id="idx" tvg-name="ZDFinfo HD" tvg-logo="" tvg-chno="4" group-title="",ZDFinfo HD
+rtsp://10.200.20.148/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6700,6710,6720,6730
+#EXTINF:-1 tvg-id="idx" tvg-name="zdf_neo_HD" tvg-logo="" tvg-chno="5" group-title="",zdf_neo HD
+rtsp://10.200.20.148/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6300,6310,6320,6330
